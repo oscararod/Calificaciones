@@ -1,4 +1,4 @@
-# Tabla de Notas - Primer Corte
+# Notas - Primer Corte - PsiEdu2_G1
 
 | Nombre                                   | Ej 1 | Ej 2 | Ej 3 | Parcial 1 (15%) |
 |------------------------------------------|:----:|:----:|:----:|:---------------:|
